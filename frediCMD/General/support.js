@@ -8,7 +8,7 @@ module.exports = async (context) => {
 https://wa.me/255752593977
 
 > 📢 *Channel Link*  
-https://whatsapp.com/channel/0029Vb6mzVF7tkj42VNPrZ3V
+https://whatsapp.com/channel/0029VbBkXG5Dp2Q9Cyhbb02Q
 
 > 👥 *Group*  
 https://chat.whatsapp.com/FA1GPSjfUQLCyFbquWnRIS
